@@ -1,3 +1,4 @@
-./node_modules
-./libraries/Account.js
-./coverage
+libraries/Account.js
+coverage
+node_modules
+package-lock.json
